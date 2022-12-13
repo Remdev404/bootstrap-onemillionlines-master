@@ -1,0 +1,50 @@
+/* Vos customisations des classes de Bootstrap */
+
+h1, h2{
+    font-family: 'Arvo', serif;
+    color: whitesmoke;
+}
+
+
+#home{
+    background-image: url(../images/hero-image.jpg);
+    background-position: top;
+    background-size: cover;
+    min-height: 500px;
+    
+}
+
+#who{
+    background-color: white;
+}
+
+
+
+#footer{
+    background-color: rgb(172, 27, 27);
+}
+
+.separator{
+    width: 100px ;
+    border-bottom: solid #DC3545 2px;
+}
+.az{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
